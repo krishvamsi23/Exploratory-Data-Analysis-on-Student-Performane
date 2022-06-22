@@ -1,1 +1,1 @@
-# Student_Performane---EDA
+# Exploratory-Data-Analysis-on-Student-Performane
