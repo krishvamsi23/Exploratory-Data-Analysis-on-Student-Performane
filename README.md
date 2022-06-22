@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-on-Student-Performane
+# Exploratory-Data-Analysis-on-Student-Performance
